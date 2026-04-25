@@ -5,7 +5,7 @@ function Header(){
     return(
         <header className={styles.header}>
             <div className={styles.logo}>
-                <h1>🛒 MegaStore</h1>
+                <h1>🛒 QualiStore</h1>
                 <p className={styles.slogan}>Sua loja de confiança!</p>
             </div>
             <nav>

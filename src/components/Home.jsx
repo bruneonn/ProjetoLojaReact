@@ -6,7 +6,7 @@ function Home(){
         <div>
             <Banner />
             <div className={styles.chamada}>
-                <h2>Bem-vindo à MegaStore!</h2>
+                <h2>Bem-vindo à QualiStore!</h2>
                 <p>Os melhores produtos com os preços mais competitivos do mercado.</p>
                 <p>Qualidade e confiança que você merece!</p>
             </div>
