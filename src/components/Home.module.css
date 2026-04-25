@@ -1,0 +1,21 @@
+.chamada {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    padding: 3rem 2rem;
+    margin: 2rem auto;
+    border-radius: 15px;
+    max-width: 800px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.chamada h2 {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.chamada p {
+    color: #555;
+    font-size: 1.2rem;
+    line-height: 1.6;
+}

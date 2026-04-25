@@ -1,0 +1,31 @@
+.footer {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 3rem;
+}
+
+.footerContent p {
+    margin: 0 0 1rem 0;
+    font-size: 0.9rem;
+}
+
+.socialLinks {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.socialLink {
+    color: white;
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+    font-size: 0.9rem;
+}
+
+.socialLink:hover {
+    opacity: 0.8;
+    text-decoration: underline;
+}
