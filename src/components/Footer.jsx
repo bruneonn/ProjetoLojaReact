@@ -7,10 +7,10 @@ function Footer(){
             <div className={styles.footerContent}>
                 <p>&copy; 2026 - Bruno Mota - Todos os direitos reservados</p>
                 <div className={styles.socialLinks}>
-                    <a href="" className={styles.socialLink}>📱 Instagram</a>
-                    <a href="" className={styles.socialLink}>📘 Facebook</a>
-                    <a href="" className={styles.socialLink}>🐦 Twitter</a>
-                    <a href="" className={styles.socialLink}>📧 contato@megastore.com</a>
+                    <p className={styles.socialLink}>📱 Instagram</p>
+                    <p className={styles.socialLink}>📘 Facebook</p>
+                    <p className={styles.socialLink}>🐦 Twitter</p>
+                    <p className={styles.socialLink}>📧 contato@megastore.com</p>
                 </div>
             </div>
         </footer>
